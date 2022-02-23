@@ -1,4 +1,11 @@
-### Hi there 👋
+## About me
+- Experienced with: node.js, React, PostGreSQL
+- Learning: .NET C#
+- Likes: coding + cats
+
+### links
+- [portfolio](https://ksallows.github.io)
+- [linkedIn](https://linkedin.com/in/katie-sallows)
 
 <!--
 **ksallows/ksallows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
