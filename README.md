@@ -1,5 +1,5 @@
 ## About me
-- Experienced with: node.js, React, PostgreSQL
+- Experienced with: node.js, React, PostgreSQL, PHP
 - Learning: .NET C#
 - Likes: coding + cats
 
